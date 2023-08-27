@@ -3,7 +3,7 @@ const parallelConfig = {
   maxInstances: 10,
   commonCapabilities: {
     'bstack:options': {
-      buildName: 'browserstack-build-1'
+      buildName: 'Parallel-build'
     }
   },
   capabilities: [
